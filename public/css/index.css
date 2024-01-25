@@ -1,0 +1,145 @@
+/* body{
+    width:100%;
+    height:820px;
+    border:solid 3px black;
+} */
+.navbarContent{
+    width:100%;
+    height:65px;
+    border:solid 3px black;
+    background-color: darkslategray
+}
+.mainContent{
+    width:100%;
+    height:685px;
+    border:solid 3px black;
+}
+.endContent{
+    width:100%;
+    height:82px;
+    border:solid 3px black;
+    background-color: darkslategray;
+}
+.form-inline{
+    margin-left:37%;
+    margin-top:-1%;
+}
+.buttonLogin{
+    margin-top: -40px;
+    margin-left: 96%;
+}
+
+
+  
+  p {
+    color: #b3b3b3;
+    font-weight: 300; }
+  
+  h1, h2, h3, h4, h5, h6,
+  .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+  
+  a {
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease; }
+    a, a:hover {
+      text-decoration: none !important; }
+  
+  .content {
+    padding: 7rem 0; }
+  
+  h2 {
+    font-size: 20px; }
+  
+  .custom-table {
+    min-width: 900px; }
+    .custom-table thead tr, .custom-table thead th {
+      border-top: none;
+      border-bottom: none !important; }
+    .custom-table tbody th, .custom-table tbody td {
+      color: #777;
+      font-weight: 400;
+      padding-bottom: 20px;
+      padding-top: 20px;
+      font-weight: 300; }
+      .custom-table tbody th small, .custom-table tbody td small {
+        color: #b3b3b3;
+        font-weight: 300; }
+    .custom-table tbody .persons {
+      padding: 0;
+      margin: 0; }
+      .custom-table tbody .persons li {
+        padding: 0;
+        margin: 0 0 0 -15px;
+        list-style: none;
+        display: inline-block; }
+        .custom-table tbody .persons li a {
+          display: inline-block;
+          width: 36px; }
+          .custom-table tbody .persons li a img {
+            border-radius: 50%;
+            max-width: 100%; }
+    .custom-table tbody tr th, .custom-table tbody tr td {
+      position: relative;
+      -webkit-transition: .3s all ease;
+      -o-transition: .3s all ease;
+      transition: .3s all ease; }
+      .custom-table tbody tr th:before, .custom-table tbody tr th:after, .custom-table tbody tr td:before, .custom-table tbody tr td:after {
+        -webkit-transition: .3s all ease;
+        -o-transition: .3s all ease;
+        transition: .3s all ease;
+        content: "";
+        left: 0;
+        right: 0;
+        position: absolute;
+        height: 1px;
+        background: #bfbfbf;
+        width: 100%;
+        opacity: 0;
+        visibility: hidden; }
+      .custom-table tbody tr th:before, .custom-table tbody tr td:before {
+        top: -1px; }
+      .custom-table tbody tr th:after, .custom-table tbody tr td:after {
+        bottom: -1px; }
+    .custom-table tbody tr:hover th, .custom-table tbody tr:hover td {
+      background: rgba(0, 0, 0, 0.03); }
+      .custom-table tbody tr:hover th:before, .custom-table tbody tr:hover th:after, .custom-table tbody tr:hover td:before, .custom-table tbody tr:hover td:after {
+        opacity: 1;
+        visibility: visible; }
+    .custom-table tbody tr.active th, .custom-table tbody tr.active td {
+      background: rgba(0, 0, 0, 0.03); }
+      .custom-table tbody tr.active th:before, .custom-table tbody tr.active th:after, .custom-table tbody tr.active td:before, .custom-table tbody tr.active td:after {
+        opacity: 1;
+        visibility: visible; }
+  
+
+    .headinTable{
+        margin-left: 39%;
+        font-style: italic;
+        margin-top: 1%;
+        font-weight: bold;
+        }
+        .signUpask{
+          margin-left: 38%;
+        }
+        .card{
+          margin-top: 10%;
+        }
+        .userContent{
+          margin-left: 94%;
+          margin-top: -3%;
+        }
+        #userProfileShow{
+          width: 42%; 
+          height: 58px;
+        }
+       .pagination{
+        margin-top: -3%;
+       }
+       #userProfileShow{
+        width: 33%; 
+        height: 50px;
+        margin-left: -37%;
+      }
+      

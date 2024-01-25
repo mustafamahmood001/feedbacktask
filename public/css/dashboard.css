@@ -1,0 +1,106 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    overflow: hidden;
+}
+
+.sidebar {
+    height: 100vh;
+    width: 250px;
+    background-color: #343a40;
+    color: #fff;
+    position: fixed;
+    left: 0;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.main-content {
+    margin-left: 250px;
+    padding: 20px;
+}
+
+.navbar {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff;
+}
+.dashboardContent{
+    border: solid 2px black;
+    width: 100%;
+    height: 675px;
+    margin-top: 1%;
+}
+.dropdownStyle .dropdown-menu {
+    margin-left: -89%;
+}
+#userProfileShow{
+    width: 7%; 
+    height: 50px;
+  }
+  .btn a {
+    text-decoration: none !important;
+    color: black;
+}
+.table-responsive{
+    text-align: center;
+}
+.addBrand{
+    margin-left: 94%;
+   
+}
+.brandForm{
+    margin-left: 38%;
+}
+.brandAdd{
+    margin-top: 4%;
+    margin-left: 12%;
+  }
+.brandAdd{
+    margin-top: 4%;
+    margin-left: 12%;
+  }
+  .pagination{
+    margin-left: 42%;
+  }
+  .search{
+    width: 100%;
+  }
+  .fa-sort:before{
+    display: none;
+  }
+  a {
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+/* Hover styles for 'a' */
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+tbody{
+    overflow: hidden;
+}
+.pagination{
+    margin-left: 45%;
+ 
+}
+select{
+    height: 36px;
+    border-radius: 4px;
+}
+.text-danger {
+    display: block;
+    color: #dc3545;
+    margin-top: 4px;
+}
